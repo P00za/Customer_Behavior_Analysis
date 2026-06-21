@@ -227,7 +227,7 @@ Install the following tools:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/customer-purchase-behavior-analysis.git
+git clone https://github.com/P00za/Customer_Behavior_Analysis
 ```
 
 ### Install Required Libraries
